@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\9e5d8d62967d201dc8a8d56a97d7f2ad\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0a043c1dc6a14a9c33150040d097c30\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\058ecbcfb80a261897f1a706f740050e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\7e59930345ea21396b40aa2fcafcfa8e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\71d514c78ea5b2e58c0478bebe802b90\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\45ef638f00f7a93ec4f4c6ef746e243c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b586b8a0eb77a8c7c68aefb341571e08\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\8bd3d9eef662cfb99b4a444d8b4313d7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3b3ae653e9792e9af1ddc1ac66cf7217\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\9e5d8d62967d201dc8a8d56a97d7f2ad\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\9e5d8d62967d201dc8a8d56a97d7f2ad\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0a043c1dc6a14a9c33150040d097c30\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0a043c1dc6a14a9c33150040d097c30\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\058ecbcfb80a261897f1a706f740050e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\058ecbcfb80a261897f1a706f740050e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\7e59930345ea21396b40aa2fcafcfa8e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\7e59930345ea21396b40aa2fcafcfa8e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\71d514c78ea5b2e58c0478bebe802b90\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\71d514c78ea5b2e58c0478bebe802b90\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\45ef638f00f7a93ec4f4c6ef746e243c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\45ef638f00f7a93ec4f4c6ef746e243c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b586b8a0eb77a8c7c68aefb341571e08\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b586b8a0eb77a8c7c68aefb341571e08\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\8bd3d9eef662cfb99b4a444d8b4313d7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\8bd3d9eef662cfb99b4a444d8b4313d7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3b3ae653e9792e9af1ddc1ac66cf7217\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3b3ae653e9792e9af1ddc1ac66cf7217\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\9e5d8d62967d201dc8a8d56a97d7f2ad\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\9e5d8d62967d201dc8a8d56a97d7f2ad\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\9e5d8d62967d201dc8a8d56a97d7f2ad\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0a043c1dc6a14a9c33150040d097c30\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\d0a043c1dc6a14a9c33150040d097c30\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\058ecbcfb80a261897f1a706f740050e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\058ecbcfb80a261897f1a706f740050e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\7e59930345ea21396b40aa2fcafcfa8e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\7e59930345ea21396b40aa2fcafcfa8e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\71d514c78ea5b2e58c0478bebe802b90\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\71d514c78ea5b2e58c0478bebe802b90\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\45ef638f00f7a93ec4f4c6ef746e243c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\45ef638f00f7a93ec4f4c6ef746e243c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b586b8a0eb77a8c7c68aefb341571e08\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b586b8a0eb77a8c7c68aefb341571e08\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\8bd3d9eef662cfb99b4a444d8b4313d7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\8bd3d9eef662cfb99b4a444d8b4313d7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3b3ae653e9792e9af1ddc1ac66cf7217\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3b3ae653e9792e9af1ddc1ac66cf7217\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.MainActivity
+ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:17:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\VerifyViewDemo\app\src\main\AndroidManifest.xml:23:27-74
